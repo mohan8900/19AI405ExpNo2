@@ -55,8 +55,8 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 
 ### Program:
 ```
-NAME:AISHWARYA.S
-REG NO:212222100003
+NAME:A K MOHAN RAJ
+REG NO:212221230064
 ```
 ```
 from collections import defaultdict
